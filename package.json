@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/similot/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/similot/testing-practice/issues"
+  },
+  "homepage": "https://github.com/similot/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
+}
