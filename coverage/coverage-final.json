@@ -1,2 +1,0 @@
-{"/home/similo/dev/projects/testing-practice/js/capitalise.js": {"path":"/home/similo/dev/projects/testing-practice/js/capitalise.js","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":54}}},"fnMap":{"0":{"name":"capitalise","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":26}},"loc":{"start":{"line":1,"column":32},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"7554112652eec5827caba329a5239d6cbd073a46"}
-}
