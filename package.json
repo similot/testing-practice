@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/similot/testing-practice/issues"
   },
-  "homepage": "https://github.com/similot/testing-practice#readme"
+  "homepage": "https://github.com/similot/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "babel-jest": "^30.5.2",
+    "jest": "^30.5.2"
+  }
 }
